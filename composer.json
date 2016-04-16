@@ -1,0 +1,13 @@
+{
+    "name": "root/laravel-dev",
+    "description": "test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "deathlover",
+            "email": "tnempolevedbew@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
